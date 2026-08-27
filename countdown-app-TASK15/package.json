@@ -1,0 +1,12 @@
+{
+  "name": "countdown-app-task15",
+  "version": "1.0.0",
+  "description": "Node.js CIA-2 Task 15",
+  "main": "countdown.js",
+  "scripts": {
+    "start": "node countdown.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
